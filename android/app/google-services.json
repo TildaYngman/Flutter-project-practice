@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382333459045",
+    "project_id": "portfolio-tilda-flutter",
+    "storage_bucket": "portfolio-tilda-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382333459045:android:045c886edef7fe9c1a848c",
+        "android_client_info": {
+          "package_name": "se.tildayngman.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382333459045-nv88f0bio3vuveb4qip8i87ki4jni7du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_oywxGDXwh3gJ-ZAnpHGYRL9JvLgL8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382333459045-nv88f0bio3vuveb4qip8i87ki4jni7du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
