@@ -50,7 +50,7 @@ class _RegisterViewPageState extends State<RegisterViewPage> {
                       autocorrect: false,
                       keyboardType: TextInputType.emailAddress,
                       decoration: const InputDecoration(
-                        hintText: 'Enter your email',
+                        hintText: 'Please enter your email',
                       )),
                   TextField(
                       controller: _password,
@@ -58,7 +58,7 @@ class _RegisterViewPageState extends State<RegisterViewPage> {
                       enableSuggestions: false,
                       autocorrect: false,
                       decoration: const InputDecoration(
-                        hintText: 'Enter your password',
+                        hintText: 'Please enter your password',
                       )),
                   TextButton(
                     onPressed: () async {
